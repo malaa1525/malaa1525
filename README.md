@@ -18,4 +18,4 @@ and what is still in progress.
 - **Square-and-multiply** and **Extended-GCD** (Rust): small building blocks
   for modular arithmetic.
 
-[Website](https://sites.google.com/view/mohamed-a-tawfik/home)) · [Google Scholar](https://scholar.google.com/citations?user=iyBaU3YAAAAJ) · malaa1515@gmail.com
+[Website](https://sites.google.com/view/mohamed-a-tawfik/home) · [Google Scholar](https://scholar.google.com/citations?user=iyBaU3YAAAAJ) · malaa1515@gmail.com
