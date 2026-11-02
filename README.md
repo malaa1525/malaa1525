@@ -8,6 +8,8 @@ Here I implement number-theoretic and elliptic-curve algorithms in Rust and C++
 as I move toward cryptographic engineering. Each repository says what is tested
 and what is still in progress.
 
+Open to research and engineering roles in cryptography and mathematical software from January 2027.
+
 **Selected repositories**
 - **Montgomery-Multiplication** (Rust): Montgomery modular multiplication with a
   correctness argument, tested against direct 128-bit arithmetic on random
